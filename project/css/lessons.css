@@ -1,0 +1,8 @@
+.phone_block{
+    background-color: black;
+    padding: 100px 0;
+}
+.inner_phone_block {
+    display: flex;
+    flex-direction: column;
+}
